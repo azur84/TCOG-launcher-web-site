@@ -1,0 +1,5 @@
+body {background-color: goldenrod;}
+div.news {text-align: center; background-color: gold;border:rgb(156, 119, 23) 10px outset;border-radius: 20px;}
+div.news div {text-align: center;background-color: rgb(252, 227, 86);border:rgb(156, 119, 23) 10px outset;border-radius: 20px;}
+div.news h4 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: 1000 ;font-size: 20px;text-decoration: underline;}
+div.news p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: 600 ;}
